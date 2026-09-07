@@ -1,0 +1,6 @@
+"Rango","Modelo_ID","PMP","pBIC","Variables"
+1,"1988",0.574,22748.344109073,"niv_educ + quintil_riq + estado_civil + emb_planeado + SDEPARTAMENTO + edad + hijos"
+2,"1924",0.375233,22749.1942750995,"niv_educ + quintil_riq + emb_planeado + SDEPARTAMENTO + edad + hijos"
+3,"1996",0.013534,22755.8389732494,"niv_educ + quintil_riq + etnicidad + estado_civil + emb_planeado + SDEPARTAMENTO + edad + hijos"
+4,"1992",0.009279,22756.5939314362,"niv_educ + quintil_riq + area_res + estado_civil + emb_planeado + SDEPARTAMENTO + edad + hijos"
+5,"1932",0.008878,22756.6822195369,"niv_educ + quintil_riq + etnicidad + emb_planeado + SDEPARTAMENTO + edad + hijos"

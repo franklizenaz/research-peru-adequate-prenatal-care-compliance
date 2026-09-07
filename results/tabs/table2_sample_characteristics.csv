@@ -1,0 +1,21 @@
+"Caracteristica","Categoria","n","Porcentaje"
+"Atención Prenatal Adecuada","No",10510,59.7
+"Atención Prenatal Adecuada","Si",7098,40.3
+"edad","Mínimo",14,NA
+"edad","Q1",26,NA
+"edad","Mediana",31,NA
+"edad","Media",30.9334393457519,NA
+"edad","Q3",36,NA
+"edad","Máximo",49,NA
+"hijos","Mínimo",0,NA
+"hijos","Q1",1,NA
+"hijos","Mediana",2,NA
+"hijos","Media",2.30611085870059,NA
+"hijos","Q3",3,NA
+"hijos","Máximo",6,NA
+"num_centros_medicos","Mínimo",0,NA
+"num_centros_medicos","Q1",1,NA
+"num_centros_medicos","Mediana",5,NA
+"num_centros_medicos","Media",13.5310086324398,NA
+"num_centros_medicos","Q3",18,NA
+"num_centros_medicos","Máximo",86,NA

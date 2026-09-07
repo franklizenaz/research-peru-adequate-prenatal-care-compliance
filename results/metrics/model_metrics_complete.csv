@@ -1,0 +1,3 @@
+"Modelo","AIC","BIC","McFadden_R2","Nagelkerke_R2","AUC","N_Variables"
+"GLM + Stepwise",22501.88,22828.47,0.0559,0.098,0.6574,41
+"svyGLM Completo",22501.88,22828.47,NA,NA,0.6553,12
